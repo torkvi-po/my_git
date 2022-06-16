@@ -79,6 +79,11 @@
     * Second
     master
 
+Чтобы переходить между ветками используем **git checkout ...**
+
+    po@MacBook-Air-Pavel GIT_01 % git checkout Second
+    Switched to branch 'Second'
+
 ### Дополнительная информация
 
 Пишу себе, чтобы не забыть откуда черпал информацию.
