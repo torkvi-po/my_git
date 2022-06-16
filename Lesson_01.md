@@ -84,6 +84,21 @@
     po@MacBook-Air-Pavel GIT_01 % git checkout Second
     Switched to branch 'Second'
 
+## Слияние веток
+
+Для слияния веток переходим в ветку **master** - **git checkout master** и используем команду **git merge** 
+
+
+    po@MacBook-Air-Pavel GIT_01 % git checkout master
+    Switched to branch 'master'
+    Your branch is up to date with 'origin/master'.
+    po@MacBook-Air-Pavel GIT_01 % git merge Second
+    Updating 327420d..fcaa2e7
+    Fast-forward
+     Lesson_01.md | 15 ++++++++++++++-
+     1 file changed, 14 insertions(+), 1 deletion(-)
+    po@MacBook-Air-Pavel GIT_01 % 
+
 ### Дополнительная информация
 
 Пишу себе, чтобы не забыть откуда черпал информацию.
