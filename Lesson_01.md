@@ -70,6 +70,14 @@
     
 Здесь у меня пошел многострочный комментарий, хотя я вроде закрыл двойную кавычку.
 
+## Работа с ветками
+
+Команда **git branch** показывает какие ветки есть. 
+    
+    git branch
+    po@MacBook-Air-Pavel GIT_01 % git branch
+    * Second
+    master
 
 ### Дополнительная информация
 
@@ -81,4 +89,4 @@
 
 2. [![Наш любимый и незаменимый Google. Yandex -- держим за тебя кулачки!](/googlelogo_color_272x92dp.png "Наш любимый и незаменимый Google. Yandex -- держим за тебя кулачки!")](https://www.google.com)
 
-
+3. Markdown: Open Preview to the Side command (⌘K V).
